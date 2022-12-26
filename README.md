@@ -43,5 +43,5 @@ This project is a part of assignment submission of "Executive PG Programme in Ma
 
 
 ## Contact
-Created by [[@kanchansingh1123](https://github.com/kanchansingh1123)] - feel free to contact us!
+Created by [[@kanchansingh1123](https://github.com/kanchansingh1123)] - feel free to contact!
 
